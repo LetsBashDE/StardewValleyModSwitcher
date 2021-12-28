@@ -8,7 +8,7 @@ Date:         28.12.2021
 This script comes without any warranty and in the state as it is.
 
 ## Why
-Old mods requires a dedicated version of stardew valley. I you have a backup of your old stardew valley than you can play it but steam will try to update your gamefiles on startup. So technicly you need to rename your folders each time after you run and close steam. This script will do that for you.
+Old mods require a dedicated version of stardew valley. I you have a backup of your old stardew valley than you can play it but steam will try to update your gamefiles on startup. So technicly you need to rename your folders each time after you run and close steam. This script will do that for you.
 
 ## Installation 
 You basicly need the vanilla Stardew Valley in your "steamcommon" folder named as 
